@@ -13,3 +13,13 @@ To verify and validate the functionality and reliability of a basic web-based ca
 
 - Arithmetic Operations: Addition, Subtraction, Multiplication, Division
 - Input Handling: Numbers, decimals, invalid input
+  
+---
+
+## 🔧 Tools Used
+- Google Sheets (for test documentation)
+- Online Calculator(Test Site)
+
+---
+## 👩‍💻 Tested by
+Simran Kumari
